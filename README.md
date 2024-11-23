@@ -28,19 +28,20 @@
 
 <div align="left">
   <a href="https://github.com/dinithmaleesha">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinithmaleesha&show_icons=true&theme=tokyonight" />
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=dinithmaleesha&show_icons=true&theme=tokyonight" />
   </a>&nbsp;
   <a href="https://github.com/dinithmaleesha">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithmaleesha&layout=compact&theme=tokyonight&card_width=320&hide_progress=true" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinithmaleesha&layout=compact&theme=tokyonight&hide_progress=true" />
   </a>
 </div>
+
 
 ---
 
 ### 🔥 GitHub Streak  
 <div align="left">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithmaleesha&theme=tokyonight&hide_border=false" />&nbsp;&nbsp;
-  <img height="200" src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif?cid=790b7611a6h9ul4dxz3b02ehzpl3fvrn5o2z0tefjv9zv11s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinithmaleesha&theme=tokyonight&hide_border=false" />&nbsp;&nbsp;
+  <img width="20%" align="center" src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif?cid=790b7611a6h9ul4dxz3b02ehzpl3fvrn5o2z0tefjv9zv11s&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 ---
