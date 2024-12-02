@@ -7,8 +7,8 @@
 🚀 **Currently Building**:  
 
 <div align="left">
-  <a href="https://github.com/dinithmaleesha/learn-typescript">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinithmaleesha&repo=learn-typescript&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/dinithmaleesha/typescript-masterclass">
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinithmaleesha&repo=typescript-masterclass&theme=tokyonight&show_owner=true" />
   </a>&nbsp;
   <img height="90" align="center" style="border: 3px solid #ccc; border-radius: 10px;" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611aud0juywhsofvfk224ejn5mw46yj2qmfjl6n7cq2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
